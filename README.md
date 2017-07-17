@@ -17,7 +17,6 @@ Github.
 
 * Introduction
 * [Text processing on the command line](http://rwet.decontextualize.com/book/unix/)
-* Python: [Expressions and strings](expressions-and-strings.ipynb)
 * Suggested exercise: [UNIX command line
   exercise](https://gist.github.com/aparrish/30cf87e287a4e3652342)
 * Collaborate to make a list of data journalism, data science and text analysis
@@ -26,6 +25,7 @@ Github.
 ### Session 2
 
 * Review the list of aspirational projects
+* Python: [Expressions and strings](expressions-and-strings.ipynb)
 * [What is plain text?](http://air.decontextualize.com/plain-text/)
 * Python: [Writing Python programs](http://rwet.decontextualize.com/book/writing-python-programs)
 * Suggested exercise: Write a Python program that mimics a UNIX command line
