@@ -41,8 +41,8 @@ Github.
 
 ### Session 4
 
-* Dictionaries, sets and tuples
-* Counting things
+* [Dictionaries, sets and tuples](dictionaries-sets-tuples.ipynb)
+* [Counting things](counting.ipynb)
 * Suggested exercise: [Exercise B](python_exercise_b.py)
 
 ### Session 5
