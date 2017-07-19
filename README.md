@@ -34,7 +34,7 @@ Github.
 ### Session 3
 
 * [Jupyter Notebook tutorial](jupyter-notebook-tutorial.ipynb)
-* [Lists and loops](lists-and-loops.ipynb)
+* [Lists and loops](lists.ipynb)
 * Suggested exercise: [Exercise A](python_exercise_a.py). (Download this Python
   file and make the modifications suggested in the comments until the output
   matches the suggestions.)
