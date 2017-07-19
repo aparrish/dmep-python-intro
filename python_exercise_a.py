@@ -65,7 +65,7 @@ print("Expected output: We aren't friends now.")
 # "We aren't friends now." (i.e., change "are" to "aren't".) Use a
 # single quoted string---don't change it to double quotes.
 
-print("We are friends now.")
+print('We are friends now.')
 
 #------------------------------------------------------------------------
 
@@ -186,7 +186,7 @@ print(greek[start:finish])
 
 print("\n------")
 print("Task 15: List slices, part 2")
-print("Expected output: ['gamma', 'delta']")
+print("Expected output: ['delta', 'epsilon']")
 
 # Task 15: Change the value of the variable "foo" below so that the print
 # statement displays the last two members of the list "greek" (defined above).
@@ -246,7 +246,7 @@ print("  zeta")
 
 # Task 19: Write a "for" loop below that prints out each item in the list
 # "greek" (defined above). (The list should contain the item that you
-# added to the list in task 6.)
+# added to the list in task 18.)
 
 
 
@@ -265,7 +265,7 @@ print("  Zeta")
 
 # Task 20: Write a "for" loop below that prints out each item in the list
 # "greek" (defined above), but with the first letter of each item capitalized.
-# (The list should contain the item that you added to the list in task 6.)
+# (The list should contain the item that you added to the list in task 18.)
 
 
 
