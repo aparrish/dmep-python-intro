@@ -42,7 +42,7 @@ Github.
 ### Session 4
 
 * [Dictionaries, sets and tuples](dictionaries-sets-tuples.ipynb)
-* [notes-20170720.ipynb](Jupyter notebook we created in class)
+* [Jupyter notebook we created in class](notes-20170720.ipynb)
 * Suggested exercise: [Exercise B](python_exercise_b.py)
 
 ### Session 5
