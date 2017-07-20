@@ -49,9 +49,8 @@ Github.
 ### Session 5
 
 * [Counting things](counting.ipynb)
-* Working with external data: CSV and JSON files
-* Accessing Web APIs
-* Suggested exercise: TK
+* [Accessing Web APIs](web-requests.ipynb)
+* Suggested exercise: [Web API Worksheet](web-api-worksheet.ipynb)
 
 ### Session 6
 
