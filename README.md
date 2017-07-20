@@ -35,6 +35,7 @@ Github.
 
 * [Jupyter Notebook tutorial](jupyter-notebook-tutorial.ipynb)
 * [Lists and loops](lists.ipynb)
+* [Jupyter notebook from class](lists-notes-20170719.ipynb)
 * Suggested exercise: [Exercise A](python_exercise_a.py). (Download this Python
   file and make the modifications suggested in the comments until the output
   matches the suggestions.)
