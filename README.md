@@ -61,9 +61,8 @@ Github.
 
 ### Session 7
 
-* Working with tabular data in Pandas
-* Simple data visualization
-* Suggested exercise: TK
+* [Pandas for simple data analysis and visualization](reasonable-pandas.ipynb)
+* Suggested exercise: [Pandas worksheet](pandas-worksheet.ipynb)
 
 ### Session 8
 
