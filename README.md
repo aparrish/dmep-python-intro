@@ -56,7 +56,7 @@ Github.
 ### Session 6
 
 * [Scraping HTML with Beautiful Soup](scraping-html.ipynb)
-* In-class exercise to be determined!
+* [Jupyter notebook from class](notes-20170724.ipynb)
 * Suggested exercise: [Web Scraping Worksheet](web-scraping-worksheet.ipynb)
 
 ### Session 7
