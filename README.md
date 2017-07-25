@@ -67,12 +67,15 @@ Github.
 
 ### Session 8
 
-* Text mining: Parsing, clustering, topic modeling
-* Suggested exercise: TK
+* [Pandas, continued](reasonable-pandas.ipynb)
+* [Intro to NLP with spaCy](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3)
+* Suggested exercise: Continue the [Pandas worksheet](pandas-worksheet.ipynb)
 
 ### Session 9
 
-* Git and Github
+* Natural Language Processing, continued
+* Parsing with Jieba
+* Similarity and clustering
 * Suggested exercise: TK
 
 ### Session 10
