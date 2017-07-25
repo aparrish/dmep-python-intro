@@ -62,6 +62,7 @@ Github.
 ### Session 7
 
 * [Pandas for simple data analysis and visualization](reasonable-pandas.ipynb)
+* [Jupyter notebook from class](notes-20170725.ipynb)
 * Suggested exercise: [Pandas worksheet](pandas-worksheet.ipynb)
 
 ### Session 8
