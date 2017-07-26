@@ -74,9 +74,8 @@ Github.
 ### Session 9
 
 * [Intro to NLP with spaCy](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3)
-* Parsing with Jieba
-* Similarity and clustering
-* Suggested exercise: TK
+* [Parsing and tagging Chinese with Jieba](nlp-with-jieba.ipynb)
+* If time: [Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
 
 ### Session 10
 
