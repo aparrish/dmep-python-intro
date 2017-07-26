@@ -68,12 +68,12 @@ Github.
 ### Session 8
 
 * [Pandas, continued](reasonable-pandas.ipynb)
-* [Intro to NLP with spaCy](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3)
+* [Jupyter notebook from class](notes-20170726.ipynb)
 * Suggested exercise: Continue the [Pandas worksheet](pandas-worksheet.ipynb)
 
 ### Session 9
 
-* Natural Language Processing, continued
+* [Intro to NLP with spaCy](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3)
 * Parsing with Jieba
 * Similarity and clustering
 * Suggested exercise: TK
