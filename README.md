@@ -74,9 +74,10 @@ Github.
 ### Session 9
 
 * [Terms to know when talking about language](http://word-game-workshop.decontextualize.com/language-vocab/)
-* [Intro to NLP with spaCy](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3)
+* [Intro to NLP with spaCy](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3) (skipped!)
 * [Parsing and tagging Chinese with Jieba](nlp-with-jieba.ipynb)
-* If time: [Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
+* [Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
+* [Experimental Chinese word vector notebook! Very incomplete!](chinese-fasttext-vectors.ipynb) (Requires [this file of 50k word vectors from FastText](zh-50k.vec.gz). Do not decompress!)
 
 ### Session 10
 
