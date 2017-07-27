@@ -73,6 +73,7 @@ Github.
 
 ### Session 9
 
+* [Terms to know when talking about language](http://word-game-workshop.decontextualize.com/language-vocab/)
 * [Intro to NLP with spaCy](https://gist.github.com/aparrish/f21f6abbf2367e8eb23438558207e1c3)
 * [Parsing and tagging Chinese with Jieba](nlp-with-jieba.ipynb)
 * If time: [Understanding word vectors](https://gist.github.com/aparrish/2f562e3737544cf29aaf1af30362f469)
